@@ -1,2 +1,2 @@
 # Karatsuba Multiplication
-Karatsuba multiplcation algorithm using The GNU Multiple Precision Arithmetic Library gmp.h
+Karatsuba multiplication algorithm using The GNU Multiple Precision Arithmetic Library gmp.h
